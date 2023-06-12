@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "$hosts" | head -n 11
